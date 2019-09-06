@@ -28,5 +28,5 @@ figcaption {
   margin-left: auto;
 }
 #details div{
-  orientation: horizontal;
+  float: left;
 }
