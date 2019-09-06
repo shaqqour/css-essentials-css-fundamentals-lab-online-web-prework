@@ -12,5 +12,6 @@ img.center {
   margin-left: auto;
 }
 a {
-  
+  text-align: center;
+  padding: 10px;
 }
