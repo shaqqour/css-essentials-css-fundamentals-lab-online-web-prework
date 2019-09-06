@@ -13,6 +13,7 @@ img.center {
 }
 a {
   text-align: center;
+  color: grey;
   padding: 10px;
 }
 figcaption {
