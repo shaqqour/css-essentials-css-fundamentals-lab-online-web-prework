@@ -32,4 +32,6 @@ figcaption {
   display: block;
   padding: 10px;
   background-color: orange;
+  text-align: center;
+  width: auto;
 }
