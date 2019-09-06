@@ -15,3 +15,7 @@ a {
   text-align: center;
   padding: 10px;
 }
+figcaption {
+  text-align: center;
+  font-size: 14;
+}
